@@ -44,5 +44,4 @@ def hangman():
             print(" ".join(board))
             win = True
             break
-
 hangman()
